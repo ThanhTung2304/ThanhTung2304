@@ -105,7 +105,7 @@ Build clean, scalable, and maintainable software solutions that solve real busin
 ## 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=ThanhTung2304&theme=tokyonight&no-frame=true&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ThanhTung2304&theme=onedark" />
 </p>
 
 ---
