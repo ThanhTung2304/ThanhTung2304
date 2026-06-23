@@ -100,13 +100,6 @@ Build clean, scalable, and maintainable software solutions that solve real busin
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ThanhTung2304&theme=tokyo-night"/>
 </p>
 
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ThanhTung2304&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&margin-h=15" />
-</p>
 
 ---
 
