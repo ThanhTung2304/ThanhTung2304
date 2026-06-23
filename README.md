@@ -9,7 +9,10 @@
 </div>
 
 ---
-
+<table>
+<tr>
+<td width="55%">
+  
 ## 👨‍💻 About Me
 
 🎓 3rd-year Software Engineering Student at University of Transport Technology (UTT)
@@ -24,6 +27,16 @@
 🎯 Career Goal
 
 Build clean, scalable, and maintainable software solutions that solve real business problems.
+
+</td>
+
+<td width="45%">
+
+<img src="https://raw.githubusercontent.com/ThanhTung2304/ThanhTung2304/main/assets/about-me.png" width="100%"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
