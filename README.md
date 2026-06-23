@@ -12,9 +12,11 @@
 
 ## 👨‍💻 About Me
 
-🎓 Software Engineering Student
+🎓 3rd-year student at University of Transport Technology (UTT)
 
 💻 Passionate about Backend Development with Java & Spring Boot
+💻 Main backend stack: Java, Spring Boot
+🌐 Frontend stack: React
 
 🚀 Currently building:
 
