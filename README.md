@@ -46,8 +46,10 @@ Build clean, scalable, and maintainable software solutions.
 
 ### Tools & DevOps
 
+### Tools & DevOps
+
 <p>
-<img src="https://skillicons.dev/icons?i=git,docker,figma,github" />
+<img src="https://skillicons.dev/icons?i=git,github,idea,vscode,docker,postman" />
 </p>
 
 ---
@@ -88,15 +90,6 @@ Fullstack E-Commerce Application
 * MySQL
 * Docker
 
-### 👨‍💼 Human Resource Management
-
-Desktop Application
-
-**Tech Stack:**
-
-* Java Swing
-* JDBC
-* MySQL
 
 ### ☕ Coffee Management
 
