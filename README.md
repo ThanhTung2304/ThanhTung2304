@@ -32,25 +32,68 @@ Build clean, scalable, and maintainable software solutions.
 
 ## 🛠 Tech Stack
 
-### Backend
+### 💻 Backend Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=java,spring,mysql" />
+  <img src="https://skillicons.dev/icons?i=java,spring,mysql" />
 </p>
-
-### Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,js,html,css,vite" />
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
 </p>
 
-### Tools & DevOps
+---
 
-### Tools & DevOps
+### 🎨 Frontend Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,idea,vscode,docker,postman" />
+  <img src="https://skillicons.dev/icons?i=react,js,html,css,vite" />
 </p>
+
+<p>
+
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+
+</p>
+
+---
+
+### 🧰 Tools & DevOps
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,idea,vscode,docker" />
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="48" height="48"/>
+</p>
+
+<p>
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+</p>
+
+---
+
+### 🚀 What I Use Them For
+
+- **Java + Spring Boot** → Backend Development
+- **MySQL** → Database Design & Data Management
+- **React + JavaScript** → Frontend Development
+- **Git + GitHub** → Version Control & Collaboration
+- **Docker** → Containerization & Deployment
+- **Postman** → API Testing & Debugging
 
 ---
 
