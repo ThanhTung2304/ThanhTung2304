@@ -11,7 +11,7 @@
 ---
 <table>
 <tr>
-<td width="55%">
+<td width="65%">
   
 ## 👨‍💻 About Me
 
@@ -30,9 +30,9 @@ Build clean, scalable, and maintainable software solutions that solve real busin
 
 </td>
 
-<td width="45%">
+<td width="35%">
 
-<img src="https://raw.githubusercontent.com/ThanhTung2304/ThanhTung2304/main/assets/about-me.png" width="100%"/>
+<img src="https://raw.githubusercontent.com/ThanhTung2304/ThanhTung2304/main/Screenshot%202026-06-23%20213010.png" width="100%"/>
 
 </td>
 </tr>
