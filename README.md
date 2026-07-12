@@ -112,8 +112,8 @@ src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=T
 
 <p align="center">
 
-<img
-src="https://streak-stats.demolab.com?user=ThanhTung2304&theme=tokyonight&hide_border=true&card_width=900"/>
+<img width="95%"
+src="https://streak-stats.demolab.com?user=ThanhTung2304&theme=tokyonight&hide_border=true"/>
 
 </p>
 
