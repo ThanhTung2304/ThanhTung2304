@@ -9,32 +9,36 @@
 </div>
 
 ---
+
 <table>
 <tr>
+
 <td width="65%">
-  
+
 ## 👨‍💻 About Me
 
 🎓 3rd-year Software Engineering Student at University of Transport Technology (UTT)
 
-💻 Passionate about Backend Development using Java & Spring Boot
+💻 Passionate about Backend Development using **Java & Spring Boot**
 
-🚀 Currently Building
+🚀 **Currently Building**
 
-- Fashion Shop (Spring Boot + React + JWT + MySQL + Docker)
-- RESTful APIs and Database-driven Applications
+- 🛒 Fashion Shop (Spring Boot + React + JWT + MySQL + Docker)
+- 🌐 RESTful APIs
+- 🗄 Database-driven Applications
 
-🎯 Career Goal
+🎯 **Career Goal**
 
-Build clean, scalable, and maintainable software solutions that solve real business problems.
+Build clean, scalable and maintainable software solutions that solve real business problems.
 
 </td>
 
 <td width="35%">
 
-<img src="https://raw.githubusercontent.com/ThanhTung2304/ThanhTung2304/main/Screenshot%202026-06-23%20213010.png" width="100%"/>
+<img src="https://raw.githubusercontent.com/ThanhTung2304/ThanhTung2304/main/Screenshot%202026-06-23%20213010.png"/>
 
 </td>
+
 </tr>
 </table>
 
@@ -42,27 +46,27 @@ Build clean, scalable, and maintainable software solutions that solve real busin
 
 # 🛠 Tech Stack
 
-### 💻 Backend Development
+## 💻 Backend
 
-<p>
-  <img src="https://skillicons.dev/icons?i=java,spring,mysql" />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=java,spring,mysql"/>
 </p>
 
-<p>
+<p align="center">
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+<img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
 
 ---
 
-### 🎨 Frontend Development
+## 🎨 Frontend
 
-<p>
-  <img src="https://skillicons.dev/icons?i=react,js,html,css,vite" />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=react,js,html,css,vite"/>
 </p>
 
-<p>
+<p align="center">
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -72,17 +76,17 @@ Build clean, scalable, and maintainable software solutions that solve real busin
 
 ---
 
-### 🧰 Tools & DevOps
+## 🧰 Tools
 
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,idea,vscode,docker" />
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="48" height="48"/>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,idea,vscode,docker"/>
+<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="48"/>
 </p>
 
-<p>
+<p align="center">
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
+<img src="https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
 <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
@@ -90,47 +94,60 @@ Build clean, scalable, and maintainable software solutions that solve real busin
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ThanhTung2304&show_icons=true&theme=tokyonight"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThanhTung2304&layout=compact&theme=tokyonight"/>
+
+<img height="170"
+src="https://github-readme-stats.vercel.app/api?username=ThanhTung2304&show_icons=true&theme=tokyonight&cache_seconds=1800"/>
+
+<img height="170"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThanhTung2304&layout=compact&theme=tokyonight&cache_seconds=1800"/>
+
 </p>
 
 ---
 
-## 🔥 GitHub Streak
+# 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ThanhTung2304&theme=tokyonight"/>
+
+<img
+src="https://streak-stats.demolab.com?user=ThanhTung2304&theme=tokyonight"/>
+
 </p>
 
 ---
 
-## 📈 Contribution Activity
+# 📈 Contribution Activity
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ThanhTung2304&theme=tokyo-night"/>
-</p>
 
+<img
+src="https://github-readme-activity-graph.vercel.app/graph?username=ThanhTung2304&theme=tokyo-night"/>
 
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/ThanhTung2304/ThanhTung2304/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
 
-## 🚀 Featured Projects
+# 🐍 Contribution Snake
 
-### 🛒 Fashion Shop Backend
+<p align="center">
+
+<img
+src="https://raw.githubusercontent.com/ThanhTung2304/ThanhTung2304/output/github-contribution-grid-snake-dark.svg"/>
+
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+## 🛒 Fashion Shop Backend
 
 RESTful E-Commerce Backend Application
 
-**Tech Stack**
+### Tech Stack
 
 - Java
 - Spring Boot
@@ -140,16 +157,15 @@ RESTful E-Commerce Backend Application
 - MySQL
 - Docker
 
-🔗 Repository:  
-https://github.com/ThanhTung2304/ProjectShopping-Backend
+🔗 https://github.com/ThanhTung2304/ProjectShopping-Backend
 
 ---
 
-### 🎨 Fashion Shop Frontend
+## 🎨 Fashion Shop Frontend
 
 Modern E-Commerce Frontend Application
 
-**Tech Stack**
+### Tech Stack
 
 - ReactJS
 - Vite
@@ -158,17 +174,24 @@ Modern E-Commerce Frontend Application
 - Axios
 - Context API
 
-🔗 Repository:  
-https://github.com/ThanhTung2304/ProjectShopping-Frontend
+🔗 https://github.com/ThanhTung2304/ProjectShopping-Frontend
 
 ---
 
-## 📫 Contact
+# 📫 Contact
 
-📧 Email: thanhtung232004@gmail.com
+📧 **Email**
 
-💻 GitHub: https://github.com/ThanhTung2304
+thanhtung232004@gmail.com
+
+💻 **GitHub**
+
+https://github.com/ThanhTung2304
 
 ---
 
-⭐ Always Learning • Always Building • Always Improving
+<div align="center">
+
+### ⭐ Always Learning • Always Building • Always Improving ⭐
+
+</div>
