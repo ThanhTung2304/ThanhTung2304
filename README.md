@@ -98,12 +98,12 @@ Build clean, scalable and maintainable software solutions that solve real busine
 
 <p align="center">
   <img
-    width="49%"
-    src="https://github-readme-stats.vercel.app/api?username=ThanhTung2304&show_icons=true&theme=tokyonight&cache_seconds=1800"
+    width="45%"
+    src="https://github-readme-stats.vercel.app/api?username=ThanhTung2304&show_icons=true&theme=tokyonight"
   />
   <img
-    width="37%"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThanhTung2304&layout=compact&theme=tokyonight&cache_seconds=1800"
+    width="45%"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThanhTung2304&layout=compact&theme=tokyonight"
   />
 </p>
 
