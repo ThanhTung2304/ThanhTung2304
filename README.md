@@ -99,16 +99,12 @@ Build clean, scalable and maintainable software solutions that solve real busine
 
 <p align="center">
   <img height="180em"
-       src="https://github-readme-stats.vercel.app/api?username=ThanhTung2304&show_icons=true&theme=tokyonight&cache_seconds=1800"/>
+       src="https://github-readme-stats-sigma-five.vercel.app/api?username=ThanhTung2304&show_icons=true&theme=tokyonight"/>
 
   <img height="180em"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThanhTung2304&layout=compact&theme=tokyonight&cache_seconds=1800"/>
+       src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ThanhTung2304&layout=compact&theme=tokyonight"/>
 </p>
 
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=ThanhTung2304&theme=tokyonight"/>
-</p>
 ---
 
 ## 🔥 GitHub Streak
