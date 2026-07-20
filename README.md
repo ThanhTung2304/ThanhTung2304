@@ -97,21 +97,13 @@ Build clean, scalable and maintainable software solutions that solve real busine
 
 ## 📊 GitHub Stats
 
-<table align="center">
-  <tr>
-  <td>
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=ThanhTung2304&show_icons=true&theme=tokyonight"/>
-  
-  </td>
-  
-  <td>
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThanhTung2304&layout=compact&theme=tokyonight"/>
-  
-  </td>
-  </tr>
-</table>
+<p align="center">
+  <img height="180em"
+       src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ThanhTung2304&show_icons=true&theme=tokyonight"/>
+
+  <img height="180em"
+       src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ThanhTung2304&layout=compact&theme=tokyonight"/>
+</p>
 
 ---
 
