@@ -98,15 +98,17 @@ Build clean, scalable and maintainable software solutions that solve real busine
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img
-    height="180em"
-    src="https://github-readme-stats.vercel.app/api?username=ThanhTung2304&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em"
+       src="https://github-readme-stats.vercel.app/api?username=ThanhTung2304&show_icons=true&theme=tokyonight&cache_seconds=1800"/>
 
-  <img
-    height="180em"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThanhTung2304&layout=compact&langs_count=8&theme=tokyonight"/>
+  <img height="180em"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThanhTung2304&layout=compact&theme=tokyonight&cache_seconds=1800"/>
 </p>
 
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=ThanhTung2304&theme=tokyonight"/>
+</p>
 ---
 
 ## 🔥 GitHub Streak
