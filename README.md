@@ -111,10 +111,10 @@ src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=T
 ## 🔥 GitHub Streak
 
 <p align="center">
-
-<img width="100%"
-src="https://streak-stats.demolab.com?user=ThanhTung2304&theme=tokyonight&hide_border=true"/>
-
+  <img
+    src="https://github-readme-streak-stats-eight.vercel.app/?user=ThanhTung2304&theme=tokyonight&hide_border=true"
+    alt="GitHub Streak"
+  />
 </p>
 
 ---
