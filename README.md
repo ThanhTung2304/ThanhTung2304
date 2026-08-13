@@ -94,24 +94,26 @@ Build clean, scalable and maintainable software solutions that solve real busine
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats
 
-<table align="center">
-  <tr>
-    <td align="center">
-      <img
-        height="180em"
-        src="https://github-readme-stats.vercel.app/api?username=ThanhTung2304&show_icons=true&theme=tokyonight"
-        alt="ThanhTung2304 GitHub Stats"
-      />
-    </td>
+<p align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ThanhTung2304&theme=tokyonight"
+    alt="GitHub Profile Details"
+  />
+</p>
 
-   <p align="center">
-      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ThanhTung2304&show_icons=true&theme=tokyonight" alt="ThanhTung2304 GitHub Stats"/>
-      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThanhTung2304&layout=compact&theme=tokyonight" alt="ThanhTung2304 Top       Languages"/>
-    </p>
-  </tr>
-</table>
+<p align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ThanhTung2304&theme=tokyonight"
+    alt="GitHub Stats"
+  />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ThanhTung2304&theme=tokyonight"
+    alt="Top Languages"
+  />
+</p>
+
 ---
 
 ## 🔥 GitHub Streak
